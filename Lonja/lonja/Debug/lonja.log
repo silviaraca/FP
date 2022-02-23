@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\croqueta\source\repos\lonja\lonja\lotes.h(19): warning C4091: 'typedef ': se ha omitido a la izquierda de 'tLotes' cuando no hay ninguna variable declarada
+c:\users\croqueta\source\repos\lonja\lonja\listalonja.h(11): warning C4091: 'typedef ': se ha omitido a la izquierda de 'tListaLotes' cuando no hay ninguna variable declarada
+  lonja.vcxproj -> C:\Users\Croqueta\source\repos\lonja\Debug\lonja.exe
